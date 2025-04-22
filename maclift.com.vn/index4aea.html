@@ -1,0 +1,9 @@
+Query ErrorSELECT name,created_time,id,email,comment,parent_id,level,record_id,is_admin,avatar  FROM fs__comments
+		WHERE  record_id = 1 
+		AND published = 1 
+		 AND parent_id = 0  ORDER BY  id DESC   LIMIT 0,3 <hr/>Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'maclift2_database.fs__comments' doesn't exist
+)

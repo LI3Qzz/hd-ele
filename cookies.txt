@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+maclift.com.vn	TRUE	/	FALSE	1999999999	PHPSESSID	qc8sf07hgfi9b2jbggb4guu28s
+
